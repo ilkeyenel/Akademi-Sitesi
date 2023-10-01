@@ -9,4 +9,5 @@ Projemde HTML, CSS ve JS kodları ile bootstrap kullandım. <br> <br>
 I used bootstrap with HTML, CSS and JS codes in my project.
 
 <h2> Ekran Görüntüsü </h2>
+
 ![](ezgif.com-video-to-gif.gif)
